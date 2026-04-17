@@ -1,6 +1,6 @@
 {
   "leagueId": "PL",
-  "updatedAt": "2026-04-17T18:37:36Z",
+  "updatedAt": "2026-04-17T18:47:25Z",
   "teams": [
     {
       "id": "ARS",
@@ -329,7 +329,7 @@
       "matchweek": 33,
       "homeTeamId": "BRE",
       "awayTeamId": "FUL",
-      "date": "2026-04-17T13:30:00Z",
+      "date": "2026-04-17T12:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -339,7 +339,7 @@
       "matchweek": 33,
       "homeTeamId": "LEE",
       "awayTeamId": "WOL",
-      "date": "2026-04-17T16:00:00Z",
+      "date": "2026-04-17T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -349,7 +349,7 @@
       "matchweek": 33,
       "homeTeamId": "NEW",
       "awayTeamId": "BOU",
-      "date": "2026-04-17T16:00:00Z",
+      "date": "2026-04-17T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -359,7 +359,7 @@
       "matchweek": 33,
       "homeTeamId": "TOT",
       "awayTeamId": "BHA",
-      "date": "2026-04-17T18:30:00Z",
+      "date": "2026-04-17T17:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -369,7 +369,7 @@
       "matchweek": 33,
       "homeTeamId": "CHE",
       "awayTeamId": "MUN",
-      "date": "2026-04-17T21:00:00Z",
+      "date": "2026-04-17T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -379,7 +379,7 @@
       "matchweek": 33,
       "homeTeamId": "AVL",
       "awayTeamId": "SUN",
-      "date": "2026-04-18T15:00:00Z",
+      "date": "2026-04-18T14:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -389,7 +389,7 @@
       "matchweek": 33,
       "homeTeamId": "EVE",
       "awayTeamId": "LIV",
-      "date": "2026-04-18T15:00:00Z",
+      "date": "2026-04-18T14:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -399,7 +399,7 @@
       "matchweek": 33,
       "homeTeamId": "NFO",
       "awayTeamId": "BUR",
-      "date": "2026-04-18T15:00:00Z",
+      "date": "2026-04-18T14:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -409,7 +409,7 @@
       "matchweek": 33,
       "homeTeamId": "MCI",
       "awayTeamId": "ARS",
-      "date": "2026-04-18T17:30:00Z",
+      "date": "2026-04-18T16:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -419,7 +419,7 @@
       "matchweek": 33,
       "homeTeamId": "CRY",
       "awayTeamId": "WHU",
-      "date": "2026-04-19T21:00:00Z",
+      "date": "2026-04-19T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -429,7 +429,7 @@
       "matchweek": 34,
       "homeTeamId": "BHA",
       "awayTeamId": "CHE",
-      "date": "2026-04-21T21:00:00Z",
+      "date": "2026-04-21T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -439,7 +439,7 @@
       "matchweek": 34,
       "homeTeamId": "BOU",
       "awayTeamId": "LEE",
-      "date": "2026-04-22T21:00:00Z",
+      "date": "2026-04-22T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -449,7 +449,7 @@
       "matchweek": 34,
       "homeTeamId": "BUR",
       "awayTeamId": "MCI",
-      "date": "2026-04-22T21:00:00Z",
+      "date": "2026-04-22T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -459,7 +459,7 @@
       "matchweek": 34,
       "homeTeamId": "SUN",
       "awayTeamId": "NFO",
-      "date": "2026-04-24T21:00:00Z",
+      "date": "2026-04-24T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -469,7 +469,7 @@
       "matchweek": 34,
       "homeTeamId": "FUL",
       "awayTeamId": "AVL",
-      "date": "2026-04-25T13:30:00Z",
+      "date": "2026-04-25T12:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -479,7 +479,7 @@
       "matchweek": 34,
       "homeTeamId": "LIV",
       "awayTeamId": "CRY",
-      "date": "2026-04-25T16:00:00Z",
+      "date": "2026-04-25T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -489,7 +489,7 @@
       "matchweek": 34,
       "homeTeamId": "WHU",
       "awayTeamId": "EVE",
-      "date": "2026-04-25T16:00:00Z",
+      "date": "2026-04-25T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -499,7 +499,7 @@
       "matchweek": 34,
       "homeTeamId": "WOL",
       "awayTeamId": "TOT",
-      "date": "2026-04-25T16:00:00Z",
+      "date": "2026-04-25T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -509,7 +509,7 @@
       "matchweek": 34,
       "homeTeamId": "ARS",
       "awayTeamId": "NEW",
-      "date": "2026-04-25T18:30:00Z",
+      "date": "2026-04-25T17:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -519,7 +519,7 @@
       "matchweek": 34,
       "homeTeamId": "MUN",
       "awayTeamId": "BRE",
-      "date": "2026-04-27T21:00:00Z",
+      "date": "2026-04-27T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

@@ -1,6 +1,6 @@
 {
   "leagueId": "SA",
-  "updatedAt": "2026-04-17T18:37:36Z",
+  "updatedAt": "2026-04-17T18:47:25Z",
   "teams": [
     {
       "id": "INT",
@@ -319,7 +319,7 @@
       "matchweek": 33,
       "homeTeamId": "INT",
       "awayTeamId": "CAG",
-      "date": "2026-04-17T20:45:00Z",
+      "date": "2026-04-17T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -329,7 +329,7 @@
       "matchweek": 33,
       "homeTeamId": "SAS",
       "awayTeamId": "COM",
-      "date": "2026-04-17T20:45:00Z",
+      "date": "2026-04-17T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -339,7 +339,7 @@
       "matchweek": 33,
       "homeTeamId": "UDI",
       "awayTeamId": "PAR",
-      "date": "2026-04-18T15:00:00Z",
+      "date": "2026-04-18T13:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -349,7 +349,7 @@
       "matchweek": 33,
       "homeTeamId": "NAP",
       "awayTeamId": "LAZ",
-      "date": "2026-04-18T18:00:00Z",
+      "date": "2026-04-18T16:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -359,7 +359,7 @@
       "matchweek": 33,
       "homeTeamId": "ROM",
       "awayTeamId": "ATA",
-      "date": "2026-04-18T20:45:00Z",
+      "date": "2026-04-18T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -369,7 +369,7 @@
       "matchweek": 33,
       "homeTeamId": "CRE",
       "awayTeamId": "TOR",
-      "date": "2026-04-19T12:30:00Z",
+      "date": "2026-04-19T10:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -379,7 +379,7 @@
       "matchweek": 33,
       "homeTeamId": "HVR",
       "awayTeamId": "MIL",
-      "date": "2026-04-19T15:00:00Z",
+      "date": "2026-04-19T13:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -389,7 +389,7 @@
       "matchweek": 33,
       "homeTeamId": "PIS",
       "awayTeamId": "GEN",
-      "date": "2026-04-19T18:00:00Z",
+      "date": "2026-04-19T16:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -399,7 +399,7 @@
       "matchweek": 33,
       "homeTeamId": "JUV",
       "awayTeamId": "BOL",
-      "date": "2026-04-19T20:45:00Z",
+      "date": "2026-04-19T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -409,7 +409,7 @@
       "matchweek": 33,
       "homeTeamId": "LEC",
       "awayTeamId": "FIO",
-      "date": "2026-04-20T20:45:00Z",
+      "date": "2026-04-20T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

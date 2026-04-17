@@ -1,6 +1,6 @@
 {
   "leagueId": "EFLC",
-  "updatedAt": "2026-04-17T18:37:36Z",
+  "updatedAt": "2026-04-17T18:47:25Z",
   "teams": [
     {
       "id": "COV",
@@ -431,7 +431,7 @@
       "matchweek": 44,
       "homeTeamId": "BLB",
       "awayTeamId": "COV",
-      "date": "2026-04-17T21:00:00Z",
+      "date": "2026-04-17T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -441,7 +441,7 @@
       "matchweek": 44,
       "homeTeamId": "DER",
       "awayTeamId": "OXF",
-      "date": "2026-04-18T13:30:00Z",
+      "date": "2026-04-18T12:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -451,7 +451,7 @@
       "matchweek": 44,
       "homeTeamId": "MWL",
       "awayTeamId": "QPR",
-      "date": "2026-04-18T13:30:00Z",
+      "date": "2026-04-18T12:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -461,7 +461,7 @@
       "matchweek": 44,
       "homeTeamId": "POR",
       "awayTeamId": "LEI",
-      "date": "2026-04-18T13:30:00Z",
+      "date": "2026-04-18T12:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -471,7 +471,7 @@
       "matchweek": 44,
       "homeTeamId": "BRC",
       "awayTeamId": "NOR",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -481,7 +481,7 @@
       "matchweek": 44,
       "homeTeamId": "HUL",
       "awayTeamId": "BIR",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -491,7 +491,7 @@
       "matchweek": 44,
       "homeTeamId": "PNE",
       "awayTeamId": "WBA",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -501,7 +501,7 @@
       "matchweek": 44,
       "homeTeamId": "SHW",
       "awayTeamId": "CHA",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -511,7 +511,7 @@
       "matchweek": 44,
       "homeTeamId": "SWA",
       "awayTeamId": "SOU",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -521,7 +521,7 @@
       "matchweek": 44,
       "homeTeamId": "WAT",
       "awayTeamId": "SHU",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -531,7 +531,7 @@
       "matchweek": 44,
       "homeTeamId": "WRX",
       "awayTeamId": "STK",
-      "date": "2026-04-18T16:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -541,7 +541,7 @@
       "matchweek": 44,
       "homeTeamId": "IPS",
       "awayTeamId": "MID",
-      "date": "2026-04-19T13:00:00Z",
+      "date": "2026-04-19T12:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

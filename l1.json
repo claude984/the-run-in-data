@@ -1,6 +1,6 @@
 {
   "leagueId": "L1",
-  "updatedAt": "2026-04-17T18:37:36Z",
+  "updatedAt": "2026-04-17T18:47:25Z",
   "teams": [
     {
       "id": "PSG",
@@ -293,7 +293,7 @@
       "matchweek": 30,
       "homeTeamId": "RCL",
       "awayTeamId": "TLS",
-      "date": "2026-04-17T20:45:00Z",
+      "date": "2026-04-17T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -303,7 +303,7 @@
       "matchweek": 30,
       "homeTeamId": "LOR",
       "awayTeamId": "OLM",
-      "date": "2026-04-18T17:00:00Z",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -313,7 +313,7 @@
       "matchweek": 30,
       "homeTeamId": "ANG",
       "awayTeamId": "LHV",
-      "date": "2026-04-18T19:00:00Z",
+      "date": "2026-04-18T17:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -323,7 +323,7 @@
       "matchweek": 30,
       "homeTeamId": "LIL",
       "awayTeamId": "NIC",
-      "date": "2026-04-18T21:05:00Z",
+      "date": "2026-04-18T19:05:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -333,7 +333,7 @@
       "matchweek": 30,
       "homeTeamId": "MON",
       "awayTeamId": "AUX",
-      "date": "2026-04-19T15:00:00Z",
+      "date": "2026-04-19T13:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -343,7 +343,7 @@
       "matchweek": 30,
       "homeTeamId": "MTZ",
       "awayTeamId": "PFC",
-      "date": "2026-04-19T17:15:00Z",
+      "date": "2026-04-19T15:15:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -353,7 +353,7 @@
       "matchweek": 30,
       "homeTeamId": "NAN",
       "awayTeamId": "BRS",
-      "date": "2026-04-19T17:15:00Z",
+      "date": "2026-04-19T15:15:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -363,7 +363,7 @@
       "matchweek": 30,
       "homeTeamId": "STR",
       "awayTeamId": "REN",
-      "date": "2026-04-19T17:15:00Z",
+      "date": "2026-04-19T15:15:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -373,7 +373,7 @@
       "matchweek": 30,
       "homeTeamId": "PSG",
       "awayTeamId": "OLL",
-      "date": "2026-04-19T20:45:00Z",
+      "date": "2026-04-19T18:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
