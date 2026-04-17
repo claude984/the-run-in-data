@@ -1,6 +1,6 @@
 {
   "leagueId": "PL",
-  "updatedAt": "2026-04-17T18:47:25Z",
+  "updatedAt": "2026-04-17T18:59:40Z",
   "teams": [
     {
       "id": "ARS",
@@ -265,21 +265,11 @@
   ],
   "fixtures": [
     {
-      "id": "PL-MD32-CHE-MCI",
-      "matchweek": 32,
-      "homeTeamId": "CHE",
-      "awayTeamId": "MCI",
-      "date": "2026-04-12T00:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
       "id": "PL-MD32-CRY-NEW",
       "matchweek": 32,
       "homeTeamId": "CRY",
       "awayTeamId": "NEW",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-12T14:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -289,7 +279,7 @@
       "matchweek": 32,
       "homeTeamId": "NFO",
       "awayTeamId": "AVL",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-12T14:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -299,7 +289,17 @@
       "matchweek": 32,
       "homeTeamId": "SUN",
       "awayTeamId": "TOT",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-12T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "PL-MD32-CHE-MCI",
+      "matchweek": 32,
+      "homeTeamId": "CHE",
+      "awayTeamId": "MCI",
+      "date": "2026-04-12T16:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -309,7 +309,7 @@
       "matchweek": 32,
       "homeTeamId": "MUN",
       "awayTeamId": "LEE",
-      "date": "2026-04-13T00:00:00Z",
+      "date": "2026-04-13T20:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -319,7 +319,7 @@
       "matchweek": 32,
       "homeTeamId": "MCI",
       "awayTeamId": "CRY",
-      "date": "2026-04-15T00:00:00Z",
+      "date": "2026-04-15T18:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
