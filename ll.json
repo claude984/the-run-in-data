@@ -1,6 +1,6 @@
 {
   "leagueId": "LL",
-  "updatedAt": "2026-04-17T18:02:24Z",
+  "updatedAt": "2026-04-17T18:37:36Z",
   "teams": [
     {
       "id": "BAR",
@@ -269,7 +269,7 @@
       "matchweek": 31,
       "homeTeamId": "ATH",
       "awayTeamId": "VIL",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -279,7 +279,7 @@
       "matchweek": 31,
       "homeTeamId": "CEL",
       "awayTeamId": "OVI",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -289,7 +289,7 @@
       "matchweek": 31,
       "homeTeamId": "MLL",
       "awayTeamId": "RAY",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -299,7 +299,7 @@
       "matchweek": 31,
       "homeTeamId": "OSA",
       "awayTeamId": "BET",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -309,7 +309,7 @@
       "matchweek": 31,
       "homeTeamId": "LEV",
       "awayTeamId": "GET",
-      "date": "2026-04-13T14:00:00Z",
+      "date": "2026-04-13T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -319,77 +319,7 @@
       "matchweek": 32,
       "homeTeamId": "ATH",
       "awayTeamId": "OSA",
-      "date": "2026-04-21T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-RMA-ALA",
-      "matchweek": 32,
-      "homeTeamId": "RMA",
-      "awayTeamId": "ALA",
-      "date": "2026-04-21T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-BAR-CEL",
-      "matchweek": 32,
-      "homeTeamId": "BAR",
-      "awayTeamId": "CEL",
-      "date": "2026-04-22T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-GIR-ESP",
-      "matchweek": 32,
-      "homeTeamId": "GIR",
-      "awayTeamId": "ESP",
-      "date": "2026-04-22T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-LEV-SEV",
-      "matchweek": 32,
-      "homeTeamId": "LEV",
-      "awayTeamId": "SEV",
-      "date": "2026-04-22T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-VIL-MLL",
-      "matchweek": 32,
-      "homeTeamId": "VIL",
-      "awayTeamId": "MLL",
-      "date": "2026-04-22T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-BET-RSO",
-      "matchweek": 32,
-      "homeTeamId": "BET",
-      "awayTeamId": "RSO",
-      "date": "2026-04-23T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "LL-MD32-GET-VAL",
-      "matchweek": 32,
-      "homeTeamId": "GET",
-      "awayTeamId": "VAL",
-      "date": "2026-04-23T14:00:00Z",
+      "date": "2026-04-21T19:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -399,7 +329,67 @@
       "matchweek": 32,
       "homeTeamId": "OVI",
       "awayTeamId": "ATM",
-      "date": "2026-04-23T14:00:00Z",
+      "date": "2026-04-21T19:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-RMA-ALA",
+      "matchweek": 32,
+      "homeTeamId": "RMA",
+      "awayTeamId": "ALA",
+      "date": "2026-04-21T21:30:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-VIL-MLL",
+      "matchweek": 32,
+      "homeTeamId": "VIL",
+      "awayTeamId": "MLL",
+      "date": "2026-04-22T19:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-GET-VAL",
+      "matchweek": 32,
+      "homeTeamId": "GET",
+      "awayTeamId": "VAL",
+      "date": "2026-04-22T20:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-BAR-CEL",
+      "matchweek": 32,
+      "homeTeamId": "BAR",
+      "awayTeamId": "CEL",
+      "date": "2026-04-22T21:30:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-GIR-ESP",
+      "matchweek": 32,
+      "homeTeamId": "GIR",
+      "awayTeamId": "ESP",
+      "date": "2026-04-22T21:30:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-LEV-SEV",
+      "matchweek": 32,
+      "homeTeamId": "LEV",
+      "awayTeamId": "SEV",
+      "date": "2026-04-23T19:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -409,7 +399,17 @@
       "matchweek": 32,
       "homeTeamId": "RAY",
       "awayTeamId": "ELC",
-      "date": "2026-04-23T14:00:00Z",
+      "date": "2026-04-23T20:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "LL-MD32-BET-RSO",
+      "matchweek": 32,
+      "homeTeamId": "BET",
+      "awayTeamId": "RSO",
+      "date": "2026-04-23T21:30:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

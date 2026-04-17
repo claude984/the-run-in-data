@@ -1,6 +1,6 @@
 {
   "leagueId": "UEL",
-  "updatedAt": "2026-04-17T18:02:24Z",
+  "updatedAt": "2026-04-17T18:37:36Z",
   "teams": [
     {
       "id": "UEL-AVL",
@@ -61,7 +61,7 @@
       "matchweek": 3,
       "homeTeamId": "UEL-BRA",
       "awayTeamId": "UEL-FRE",
-      "date": "2026-04-30T14:00:00Z",
+      "date": "2026-04-30T21:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -71,7 +71,7 @@
       "matchweek": 3,
       "homeTeamId": "UEL-NFO",
       "awayTeamId": "UEL-AVL",
-      "date": "2026-04-30T14:00:00Z",
+      "date": "2026-04-30T21:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -81,7 +81,7 @@
       "matchweek": 4,
       "homeTeamId": "UEL-FRE",
       "awayTeamId": "UEL-BRA",
-      "date": "2026-05-07T14:00:00Z",
+      "date": "2026-05-07T21:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -91,7 +91,7 @@
       "matchweek": 4,
       "homeTeamId": "UEL-AVL",
       "awayTeamId": "UEL-NFO",
-      "date": "2026-05-07T14:00:00Z",
+      "date": "2026-05-07T21:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -101,7 +101,7 @@
       "matchweek": 5,
       "homeTeamId": "UEL-AVL",
       "awayTeamId": "UEL-FRE",
-      "date": "2026-05-20T14:00:00Z",
+      "date": "2026-05-20T21:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

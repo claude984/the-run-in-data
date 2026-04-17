@@ -1,6 +1,6 @@
 {
   "leagueId": "L1",
-  "updatedAt": "2026-04-17T18:02:24Z",
+  "updatedAt": "2026-04-17T18:37:36Z",
   "teams": [
     {
       "id": "PSG",
@@ -243,7 +243,7 @@
       "matchweek": 29,
       "homeTeamId": "NIC",
       "awayTeamId": "LHV",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -253,7 +253,7 @@
       "matchweek": 29,
       "homeTeamId": "OLL",
       "awayTeamId": "LOR",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -263,7 +263,7 @@
       "matchweek": 29,
       "homeTeamId": "TLS",
       "awayTeamId": "LIL",
-      "date": "2026-04-12T14:00:00Z",
+      "date": "2026-04-12T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -273,7 +273,7 @@
       "matchweek": 29,
       "homeTeamId": "BRS",
       "awayTeamId": "STR",
-      "date": "2026-05-13T14:00:00Z",
+      "date": "2026-05-13T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -283,7 +283,7 @@
       "matchweek": 29,
       "homeTeamId": "RCL",
       "awayTeamId": "PSG",
-      "date": "2026-05-13T14:00:00Z",
+      "date": "2026-05-13T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -293,27 +293,7 @@
       "matchweek": 30,
       "homeTeamId": "RCL",
       "awayTeamId": "TLS",
-      "date": "2026-04-17T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "L1-MD30-ANG-LHV",
-      "matchweek": 30,
-      "homeTeamId": "ANG",
-      "awayTeamId": "LHV",
-      "date": "2026-04-18T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "L1-MD30-LIL-NIC",
-      "matchweek": 30,
-      "homeTeamId": "LIL",
-      "awayTeamId": "NIC",
-      "date": "2026-04-18T14:00:00Z",
+      "date": "2026-04-17T20:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -323,7 +303,27 @@
       "matchweek": 30,
       "homeTeamId": "LOR",
       "awayTeamId": "OLM",
-      "date": "2026-04-18T14:00:00Z",
+      "date": "2026-04-18T17:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "L1-MD30-ANG-LHV",
+      "matchweek": 30,
+      "homeTeamId": "ANG",
+      "awayTeamId": "LHV",
+      "date": "2026-04-18T19:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "L1-MD30-LIL-NIC",
+      "matchweek": 30,
+      "homeTeamId": "LIL",
+      "awayTeamId": "NIC",
+      "date": "2026-04-18T21:05:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -333,7 +333,7 @@
       "matchweek": 30,
       "homeTeamId": "MON",
       "awayTeamId": "AUX",
-      "date": "2026-04-19T14:00:00Z",
+      "date": "2026-04-19T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -343,7 +343,7 @@
       "matchweek": 30,
       "homeTeamId": "MTZ",
       "awayTeamId": "PFC",
-      "date": "2026-04-19T14:00:00Z",
+      "date": "2026-04-19T17:15:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -353,17 +353,7 @@
       "matchweek": 30,
       "homeTeamId": "NAN",
       "awayTeamId": "BRS",
-      "date": "2026-04-19T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
-    },
-    {
-      "id": "L1-MD30-PSG-OLL",
-      "matchweek": 30,
-      "homeTeamId": "PSG",
-      "awayTeamId": "OLL",
-      "date": "2026-04-19T14:00:00Z",
+      "date": "2026-04-19T17:15:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -373,7 +363,17 @@
       "matchweek": 30,
       "homeTeamId": "STR",
       "awayTeamId": "REN",
-      "date": "2026-04-19T14:00:00Z",
+      "date": "2026-04-19T17:15:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "L1-MD30-PSG-OLL",
+      "matchweek": 30,
+      "homeTeamId": "PSG",
+      "awayTeamId": "OLL",
+      "date": "2026-04-19T20:45:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -383,7 +383,7 @@
       "matchweek": 31,
       "homeTeamId": "LIL",
       "awayTeamId": "PSG",
-      "date": "2026-04-25T14:00:00Z",
+      "date": "2026-04-25T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -393,7 +393,7 @@
       "matchweek": 31,
       "homeTeamId": "OLL",
       "awayTeamId": "STR",
-      "date": "2026-04-25T14:00:00Z",
+      "date": "2026-04-25T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -403,7 +403,7 @@
       "matchweek": 31,
       "homeTeamId": "OLM",
       "awayTeamId": "RCL",
-      "date": "2026-04-25T14:00:00Z",
+      "date": "2026-04-25T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -413,7 +413,7 @@
       "matchweek": 31,
       "homeTeamId": "REN",
       "awayTeamId": "MON",
-      "date": "2026-04-25T14:00:00Z",
+      "date": "2026-04-25T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -423,7 +423,7 @@
       "matchweek": 31,
       "homeTeamId": "AUX",
       "awayTeamId": "MTZ",
-      "date": "2026-04-26T14:00:00Z",
+      "date": "2026-04-26T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -433,7 +433,7 @@
       "matchweek": 31,
       "homeTeamId": "BRS",
       "awayTeamId": "NIC",
-      "date": "2026-04-26T14:00:00Z",
+      "date": "2026-04-26T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -443,7 +443,7 @@
       "matchweek": 31,
       "homeTeamId": "LHV",
       "awayTeamId": "NAN",
-      "date": "2026-04-26T14:00:00Z",
+      "date": "2026-04-26T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -453,7 +453,7 @@
       "matchweek": 31,
       "homeTeamId": "PFC",
       "awayTeamId": "LOR",
-      "date": "2026-04-26T14:00:00Z",
+      "date": "2026-04-26T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -463,7 +463,7 @@
       "matchweek": 31,
       "homeTeamId": "TLS",
       "awayTeamId": "ANG",
-      "date": "2026-04-26T14:00:00Z",
+      "date": "2026-04-26T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -473,7 +473,7 @@
       "matchweek": 32,
       "homeTeamId": "MON",
       "awayTeamId": "LIL",
-      "date": "2026-05-02T14:00:00Z",
+      "date": "2026-05-02T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -483,7 +483,7 @@
       "matchweek": 32,
       "homeTeamId": "PSG",
       "awayTeamId": "OLM",
-      "date": "2026-05-02T14:00:00Z",
+      "date": "2026-05-02T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -493,7 +493,7 @@
       "matchweek": 32,
       "homeTeamId": "RCL",
       "awayTeamId": "REN",
-      "date": "2026-05-02T14:00:00Z",
+      "date": "2026-05-02T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -503,7 +503,7 @@
       "matchweek": 32,
       "homeTeamId": "STR",
       "awayTeamId": "TLS",
-      "date": "2026-05-02T14:00:00Z",
+      "date": "2026-05-02T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -513,7 +513,7 @@
       "matchweek": 32,
       "homeTeamId": "ANG",
       "awayTeamId": "PFC",
-      "date": "2026-05-03T14:00:00Z",
+      "date": "2026-05-03T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -523,7 +523,7 @@
       "matchweek": 32,
       "homeTeamId": "LOR",
       "awayTeamId": "BRS",
-      "date": "2026-05-03T14:00:00Z",
+      "date": "2026-05-03T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -533,7 +533,7 @@
       "matchweek": 32,
       "homeTeamId": "MTZ",
       "awayTeamId": "LHV",
-      "date": "2026-05-03T14:00:00Z",
+      "date": "2026-05-03T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -543,7 +543,7 @@
       "matchweek": 32,
       "homeTeamId": "NAN",
       "awayTeamId": "AUX",
-      "date": "2026-05-03T14:00:00Z",
+      "date": "2026-05-03T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -553,7 +553,7 @@
       "matchweek": 32,
       "homeTeamId": "NIC",
       "awayTeamId": "OLL",
-      "date": "2026-05-03T14:00:00Z",
+      "date": "2026-05-03T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -563,7 +563,7 @@
       "matchweek": 33,
       "homeTeamId": "LIL",
       "awayTeamId": "RCL",
-      "date": "2026-05-09T14:00:00Z",
+      "date": "2026-05-09T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -573,7 +573,7 @@
       "matchweek": 33,
       "homeTeamId": "MON",
       "awayTeamId": "LOR",
-      "date": "2026-05-09T14:00:00Z",
+      "date": "2026-05-09T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -583,7 +583,7 @@
       "matchweek": 33,
       "homeTeamId": "OLM",
       "awayTeamId": "OLL",
-      "date": "2026-05-09T14:00:00Z",
+      "date": "2026-05-09T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -593,7 +593,7 @@
       "matchweek": 33,
       "homeTeamId": "REN",
       "awayTeamId": "PSG",
-      "date": "2026-05-09T14:00:00Z",
+      "date": "2026-05-09T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -603,7 +603,7 @@
       "matchweek": 33,
       "homeTeamId": "ANG",
       "awayTeamId": "NIC",
-      "date": "2026-05-10T14:00:00Z",
+      "date": "2026-05-10T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -613,7 +613,7 @@
       "matchweek": 33,
       "homeTeamId": "AUX",
       "awayTeamId": "NAN",
-      "date": "2026-05-10T14:00:00Z",
+      "date": "2026-05-10T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -623,7 +623,7 @@
       "matchweek": 33,
       "homeTeamId": "LHV",
       "awayTeamId": "MTZ",
-      "date": "2026-05-10T14:00:00Z",
+      "date": "2026-05-10T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -633,7 +633,7 @@
       "matchweek": 33,
       "homeTeamId": "STR",
       "awayTeamId": "BRS",
-      "date": "2026-05-10T14:00:00Z",
+      "date": "2026-05-10T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -643,7 +643,7 @@
       "matchweek": 33,
       "homeTeamId": "TLS",
       "awayTeamId": "PFC",
-      "date": "2026-05-10T14:00:00Z",
+      "date": "2026-05-10T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -653,7 +653,7 @@
       "matchweek": 34,
       "homeTeamId": "BRS",
       "awayTeamId": "STR",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -663,7 +663,7 @@
       "matchweek": 34,
       "homeTeamId": "LOR",
       "awayTeamId": "MON",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -673,7 +673,7 @@
       "matchweek": 34,
       "homeTeamId": "MTZ",
       "awayTeamId": "AUX",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -683,7 +683,7 @@
       "matchweek": 34,
       "homeTeamId": "NAN",
       "awayTeamId": "LHV",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -693,7 +693,7 @@
       "matchweek": 34,
       "homeTeamId": "NIC",
       "awayTeamId": "ANG",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -703,7 +703,7 @@
       "matchweek": 34,
       "homeTeamId": "OLL",
       "awayTeamId": "REN",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -713,7 +713,7 @@
       "matchweek": 34,
       "homeTeamId": "PFC",
       "awayTeamId": "TLS",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -723,7 +723,7 @@
       "matchweek": 34,
       "homeTeamId": "PSG",
       "awayTeamId": "LIL",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -733,7 +733,7 @@
       "matchweek": 34,
       "homeTeamId": "RCL",
       "awayTeamId": "OLM",
-      "date": "2026-05-16T14:00:00Z",
+      "date": "2026-05-16T00:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
