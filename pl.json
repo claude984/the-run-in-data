@@ -1,6 +1,6 @@
 {
   "leagueId": "PL",
-  "updatedAt": "2026-04-17T18:59:40Z",
+  "updatedAt": "2026-04-17T19:29:19Z",
   "teams": [
     {
       "id": "ARS",
@@ -34,12 +34,12 @@
       "shortName": "Man Utd",
       "primaryColor": "#DA291C",
       "secondaryColor": "#FFFFFF",
-      "played": 31,
+      "played": 30,
       "won": 15,
-      "drawn": 10,
+      "drawn": 9,
       "lost": 6,
-      "goalsFor": 49,
-      "goalsAgainst": 36
+      "goalsFor": 48,
+      "goalsAgainst": 35
     },
     {
       "id": "AVL",
@@ -190,12 +190,12 @@
       "shortName": "Leeds",
       "primaryColor": "#FFCD00",
       "secondaryColor": "#1D428A",
-      "played": 31,
+      "played": 30,
       "won": 7,
-      "drawn": 12,
+      "drawn": 11,
       "lost": 12,
-      "goalsFor": 31,
-      "goalsAgainst": 42
+      "goalsFor": 30,
+      "goalsAgainst": 41
     },
     {
       "id": "NFO",
@@ -309,10 +309,10 @@
       "matchweek": 32,
       "homeTeamId": "MUN",
       "awayTeamId": "LEE",
-      "date": "2026-04-13T20:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
+      "date": "2026-04-13T19:00:00Z",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isCompleted": true
     },
     {
       "id": "PL-MD31P-MCI-CRY",
