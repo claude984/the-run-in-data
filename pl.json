@@ -1,6 +1,6 @@
 {
   "leagueId": "PL",
-  "updatedAt": "2026-04-17T19:29:19Z",
+  "updatedAt": "2026-04-17T19:46:05Z",
   "teams": [
     {
       "id": "ARS",
@@ -21,11 +21,11 @@
       "shortName": "Man City",
       "primaryColor": "#6CABDD",
       "secondaryColor": "#FFFFFF",
-      "played": 30,
-      "won": 18,
+      "played": 31,
+      "won": 19,
       "drawn": 7,
       "lost": 5,
-      "goalsFor": 62,
+      "goalsFor": 65,
       "goalsAgainst": 30
     },
     {
@@ -34,12 +34,12 @@
       "shortName": "Man Utd",
       "primaryColor": "#DA291C",
       "secondaryColor": "#FFFFFF",
-      "played": 30,
+      "played": 31,
       "won": 15,
-      "drawn": 9,
+      "drawn": 10,
       "lost": 6,
-      "goalsFor": 48,
-      "goalsAgainst": 35
+      "goalsFor": 49,
+      "goalsAgainst": 36
     },
     {
       "id": "AVL",
@@ -177,12 +177,12 @@
       "shortName": "Palace",
       "primaryColor": "#1B458F",
       "secondaryColor": "#C4122E",
-      "played": 30,
-      "won": 10,
+      "played": 31,
+      "won": 11,
       "drawn": 9,
       "lost": 11,
-      "goalsFor": 37,
-      "goalsAgainst": 39
+      "goalsFor": 39,
+      "goalsAgainst": 40
     },
     {
       "id": "LEE",
@@ -190,12 +190,12 @@
       "shortName": "Leeds",
       "primaryColor": "#FFCD00",
       "secondaryColor": "#1D428A",
-      "played": 30,
+      "played": 31,
       "won": 7,
-      "drawn": 11,
+      "drawn": 12,
       "lost": 12,
-      "goalsFor": 30,
-      "goalsAgainst": 41
+      "goalsFor": 31,
+      "goalsAgainst": 42
     },
     {
       "id": "NFO",
@@ -270,9 +270,9 @@
       "homeTeamId": "CRY",
       "awayTeamId": "NEW",
       "date": "2026-04-12T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
+      "homeScore": 2,
+      "awayScore": 1,
+      "isCompleted": true
     },
     {
       "id": "PL-MD32-NFO-AVL",
@@ -280,9 +280,9 @@
       "homeTeamId": "NFO",
       "awayTeamId": "AVL",
       "date": "2026-04-12T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
+      "homeScore": 1,
+      "awayScore": 1,
+      "isCompleted": true
     },
     {
       "id": "PL-MD32-SUN-TOT",
@@ -290,9 +290,9 @@
       "homeTeamId": "SUN",
       "awayTeamId": "TOT",
       "date": "2026-04-12T14:00:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
+      "homeScore": 1,
+      "awayScore": 0,
+      "isCompleted": true
     },
     {
       "id": "PL-MD32-CHE-MCI",
@@ -300,9 +300,9 @@
       "homeTeamId": "CHE",
       "awayTeamId": "MCI",
       "date": "2026-04-12T16:30:00Z",
-      "homeScore": null,
-      "awayScore": null,
-      "isCompleted": false
+      "homeScore": 0,
+      "awayScore": 3,
+      "isCompleted": true
     },
     {
       "id": "PL-MD32-MUN-LEE",
@@ -316,7 +316,7 @@
     },
     {
       "id": "PL-MD31P-MCI-CRY",
-      "matchweek": 32,
+      "matchweek": 33,
       "homeTeamId": "MCI",
       "awayTeamId": "CRY",
       "date": "2026-04-15T18:30:00Z",
