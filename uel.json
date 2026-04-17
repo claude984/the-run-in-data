@@ -1,0 +1,110 @@
+{
+  "leagueId": "UEL",
+  "updatedAt": "2026-04-17T18:02:24Z",
+  "teams": [
+    {
+      "id": "UEL-AVL",
+      "name": "Aston Villa",
+      "shortName": "Villa",
+      "primaryColor": "#670E36",
+      "secondaryColor": "#95BFE5",
+      "played": 4,
+      "won": 4,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 9,
+      "goalsAgainst": 2
+    },
+    {
+      "id": "UEL-FRE",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg",
+      "primaryColor": "#E2001A",
+      "secondaryColor": "#000000",
+      "played": 4,
+      "won": 3,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 3
+    },
+    {
+      "id": "UEL-BRA",
+      "name": "SC Braga",
+      "shortName": "Braga",
+      "primaryColor": "#B01B1F",
+      "secondaryColor": "#FFFFFF",
+      "played": 4,
+      "won": 2,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 5
+    },
+    {
+      "id": "UEL-NFO",
+      "name": "Nottingham Forest",
+      "shortName": "Forest",
+      "primaryColor": "#DD0000",
+      "secondaryColor": "#FFFFFF",
+      "played": 4,
+      "won": 2,
+      "drawn": 1,
+      "lost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 3
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "UEL-SF1-L1-BRA-FRE",
+      "matchweek": 3,
+      "homeTeamId": "UEL-BRA",
+      "awayTeamId": "UEL-FRE",
+      "date": "2026-04-30T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UEL-SF2-L1-NFO-AVL",
+      "matchweek": 3,
+      "homeTeamId": "UEL-NFO",
+      "awayTeamId": "UEL-AVL",
+      "date": "2026-04-30T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UEL-SF1-L2-FRE-BRA",
+      "matchweek": 4,
+      "homeTeamId": "UEL-FRE",
+      "awayTeamId": "UEL-BRA",
+      "date": "2026-05-07T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UEL-SF2-L2-AVL-NFO",
+      "matchweek": 4,
+      "homeTeamId": "UEL-AVL",
+      "awayTeamId": "UEL-NFO",
+      "date": "2026-05-07T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UEL-FINAL",
+      "matchweek": 5,
+      "homeTeamId": "UEL-AVL",
+      "awayTeamId": "UEL-FRE",
+      "date": "2026-05-20T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    }
+  ]
+}

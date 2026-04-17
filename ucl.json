@@ -1,0 +1,110 @@
+{
+  "leagueId": "UCL",
+  "updatedAt": "2026-04-17T18:02:24Z",
+  "teams": [
+    {
+      "id": "UCL-PSG",
+      "name": "Paris Saint-Germain",
+      "shortName": "PSG",
+      "primaryColor": "#004170",
+      "secondaryColor": "#DA291C",
+      "played": 4,
+      "won": 4,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 12,
+      "goalsAgainst": 2
+    },
+    {
+      "id": "UCL-BAY",
+      "name": "Bayern M\u00fcnchen",
+      "shortName": "Bayern",
+      "primaryColor": "#DC052D",
+      "secondaryColor": "#0066B2",
+      "played": 4,
+      "won": 4,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 16,
+      "goalsAgainst": 6
+    },
+    {
+      "id": "UCL-ARS",
+      "name": "Arsenal",
+      "shortName": "Arsenal",
+      "primaryColor": "#EF0107",
+      "secondaryColor": "#FFFFFF",
+      "played": 4,
+      "won": 2,
+      "drawn": 2,
+      "lost": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 1
+    },
+    {
+      "id": "UCL-ATM",
+      "name": "Atl\u00e9tico de Madrid",
+      "shortName": "Atl\u00e9tico",
+      "primaryColor": "#CB3524",
+      "secondaryColor": "#27408B",
+      "played": 4,
+      "won": 2,
+      "drawn": 0,
+      "lost": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 9
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "UCL-SF1-L1-PSG-BAY",
+      "matchweek": 3,
+      "homeTeamId": "UCL-PSG",
+      "awayTeamId": "UCL-BAY",
+      "date": "2026-04-28T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UCL-SF2-L1-ATM-ARS",
+      "matchweek": 3,
+      "homeTeamId": "UCL-ATM",
+      "awayTeamId": "UCL-ARS",
+      "date": "2026-04-29T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UCL-SF2-L2-ARS-ATM",
+      "matchweek": 4,
+      "homeTeamId": "UCL-ARS",
+      "awayTeamId": "UCL-ATM",
+      "date": "2026-05-05T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UCL-SF1-L2-BAY-PSG",
+      "matchweek": 4,
+      "homeTeamId": "UCL-BAY",
+      "awayTeamId": "UCL-PSG",
+      "date": "2026-05-06T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    },
+    {
+      "id": "UCL-FINAL",
+      "matchweek": 5,
+      "homeTeamId": "UCL-PSG",
+      "awayTeamId": "UCL-ARS",
+      "date": "2026-05-30T14:00:00Z",
+      "homeScore": null,
+      "awayScore": null,
+      "isCompleted": false
+    }
+  ]
+}
