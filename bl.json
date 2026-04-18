@@ -1,6 +1,6 @@
 {
   "leagueId": "BL",
-  "updatedAt": "2026-04-17T20:15:32Z",
+  "updatedAt": "2026-04-18T02:50:05Z",
   "teams": [
     {
       "id": "BAY",
@@ -243,7 +243,7 @@
       "matchweek": 29,
       "homeTeamId": "KOE",
       "awayTeamId": "SVW",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -253,7 +253,7 @@
       "matchweek": 29,
       "homeTeamId": "M05",
       "awayTeamId": "FRE",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -263,7 +263,7 @@
       "matchweek": 29,
       "homeTeamId": "STU",
       "awayTeamId": "HSV",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -363,7 +363,7 @@
       "matchweek": 31,
       "homeTeamId": "BVB",
       "awayTeamId": "SGE",
-      "date": "2026-04-25T00:00:00Z",
+      "date": "2026-04-24T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -373,7 +373,7 @@
       "matchweek": 31,
       "homeTeamId": "HSV",
       "awayTeamId": "BAY",
-      "date": "2026-04-25T00:00:00Z",
+      "date": "2026-04-24T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -383,7 +383,7 @@
       "matchweek": 31,
       "homeTeamId": "KOE",
       "awayTeamId": "B04",
-      "date": "2026-04-25T00:00:00Z",
+      "date": "2026-04-24T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -393,7 +393,7 @@
       "matchweek": 31,
       "homeTeamId": "RBL",
       "awayTeamId": "FRE",
-      "date": "2026-04-25T00:00:00Z",
+      "date": "2026-04-24T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -403,7 +403,7 @@
       "matchweek": 31,
       "homeTeamId": "STU",
       "awayTeamId": "UNB",
-      "date": "2026-04-25T00:00:00Z",
+      "date": "2026-04-24T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -413,7 +413,7 @@
       "matchweek": 31,
       "homeTeamId": "AUG",
       "awayTeamId": "BMG",
-      "date": "2026-04-26T00:00:00Z",
+      "date": "2026-04-25T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -423,7 +423,7 @@
       "matchweek": 31,
       "homeTeamId": "HDH",
       "awayTeamId": "M05",
-      "date": "2026-04-26T00:00:00Z",
+      "date": "2026-04-25T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -433,7 +433,7 @@
       "matchweek": 31,
       "homeTeamId": "STP",
       "awayTeamId": "SVW",
-      "date": "2026-04-26T00:00:00Z",
+      "date": "2026-04-25T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -443,7 +443,7 @@
       "matchweek": 31,
       "homeTeamId": "WOB",
       "awayTeamId": "HOF",
-      "date": "2026-04-26T00:00:00Z",
+      "date": "2026-04-25T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -453,7 +453,7 @@
       "matchweek": 32,
       "homeTeamId": "B04",
       "awayTeamId": "HDH",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -463,7 +463,7 @@
       "matchweek": 32,
       "homeTeamId": "BAY",
       "awayTeamId": "BVB",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -473,7 +473,7 @@
       "matchweek": 32,
       "homeTeamId": "FRE",
       "awayTeamId": "KOE",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -483,7 +483,7 @@
       "matchweek": 32,
       "homeTeamId": "SGE",
       "awayTeamId": "STU",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -493,7 +493,7 @@
       "matchweek": 32,
       "homeTeamId": "UNB",
       "awayTeamId": "AUG",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -503,7 +503,7 @@
       "matchweek": 32,
       "homeTeamId": "BMG",
       "awayTeamId": "STP",
-      "date": "2026-05-03T00:00:00Z",
+      "date": "2026-05-02T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -513,7 +513,7 @@
       "matchweek": 32,
       "homeTeamId": "HOF",
       "awayTeamId": "RBL",
-      "date": "2026-05-03T00:00:00Z",
+      "date": "2026-05-02T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -523,7 +523,7 @@
       "matchweek": 32,
       "homeTeamId": "M05",
       "awayTeamId": "WOB",
-      "date": "2026-05-03T00:00:00Z",
+      "date": "2026-05-02T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -533,7 +533,7 @@
       "matchweek": 32,
       "homeTeamId": "SVW",
       "awayTeamId": "HSV",
-      "date": "2026-05-03T00:00:00Z",
+      "date": "2026-05-02T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -543,7 +543,7 @@
       "matchweek": 33,
       "homeTeamId": "BVB",
       "awayTeamId": "FRE",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -553,7 +553,7 @@
       "matchweek": 33,
       "homeTeamId": "HSV",
       "awayTeamId": "SGE",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -563,7 +563,7 @@
       "matchweek": 33,
       "homeTeamId": "KOE",
       "awayTeamId": "UNB",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -573,7 +573,7 @@
       "matchweek": 33,
       "homeTeamId": "RBL",
       "awayTeamId": "BAY",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -583,7 +583,7 @@
       "matchweek": 33,
       "homeTeamId": "STU",
       "awayTeamId": "B04",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -593,7 +593,7 @@
       "matchweek": 33,
       "homeTeamId": "AUG",
       "awayTeamId": "HDH",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -603,7 +603,7 @@
       "matchweek": 33,
       "homeTeamId": "STP",
       "awayTeamId": "HOF",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -613,7 +613,7 @@
       "matchweek": 33,
       "homeTeamId": "SVW",
       "awayTeamId": "M05",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -623,7 +623,7 @@
       "matchweek": 33,
       "homeTeamId": "WOB",
       "awayTeamId": "BMG",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -633,7 +633,7 @@
       "matchweek": 34,
       "homeTeamId": "B04",
       "awayTeamId": "FRE",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -643,7 +643,7 @@
       "matchweek": 34,
       "homeTeamId": "BAY",
       "awayTeamId": "SGE",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -653,7 +653,7 @@
       "matchweek": 34,
       "homeTeamId": "BMG",
       "awayTeamId": "HDH",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -663,7 +663,7 @@
       "matchweek": 34,
       "homeTeamId": "BVB",
       "awayTeamId": "KOE",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -673,7 +673,7 @@
       "matchweek": 34,
       "homeTeamId": "HOF",
       "awayTeamId": "HSV",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -683,7 +683,7 @@
       "matchweek": 34,
       "homeTeamId": "M05",
       "awayTeamId": "AUG",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -693,7 +693,7 @@
       "matchweek": 34,
       "homeTeamId": "RBL",
       "awayTeamId": "STU",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -703,7 +703,7 @@
       "matchweek": 34,
       "homeTeamId": "STP",
       "awayTeamId": "WOB",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -713,7 +713,7 @@
       "matchweek": 34,
       "homeTeamId": "UNB",
       "awayTeamId": "SVW",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

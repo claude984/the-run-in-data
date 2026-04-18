@@ -1,6 +1,6 @@
 {
   "leagueId": "LL",
-  "updatedAt": "2026-04-17T20:15:32Z",
+  "updatedAt": "2026-04-18T02:50:05Z",
   "teams": [
     {
       "id": "BAR",
@@ -269,7 +269,7 @@
       "matchweek": 31,
       "homeTeamId": "ATH",
       "awayTeamId": "VIL",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -279,7 +279,7 @@
       "matchweek": 31,
       "homeTeamId": "CEL",
       "awayTeamId": "OVI",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -289,7 +289,7 @@
       "matchweek": 31,
       "homeTeamId": "MLL",
       "awayTeamId": "RAY",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -299,7 +299,7 @@
       "matchweek": 31,
       "homeTeamId": "OSA",
       "awayTeamId": "BET",
-      "date": "2026-04-12T00:00:00Z",
+      "date": "2026-04-11T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -309,7 +309,7 @@
       "matchweek": 31,
       "homeTeamId": "LEV",
       "awayTeamId": "GET",
-      "date": "2026-04-13T00:00:00Z",
+      "date": "2026-04-12T22:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false

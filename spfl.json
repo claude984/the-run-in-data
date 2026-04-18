@@ -1,6 +1,6 @@
 {
   "leagueId": "SPFL",
-  "updatedAt": "2026-04-17T20:15:32Z",
+  "updatedAt": "2026-04-18T02:50:05Z",
   "teams": [
     {
       "id": "HEA",
@@ -225,7 +225,7 @@
       "matchweek": 35,
       "homeTeamId": "LVN",
       "awayTeamId": "ABE",
-      "date": "2026-05-01T00:00:00Z",
+      "date": "2026-04-30T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -235,7 +235,7 @@
       "matchweek": 35,
       "homeTeamId": "DUN",
       "awayTeamId": "STM",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -245,7 +245,7 @@
       "matchweek": 35,
       "homeTeamId": "FAL",
       "awayTeamId": "MOT",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -255,7 +255,7 @@
       "matchweek": 35,
       "homeTeamId": "KIL",
       "awayTeamId": "DUU",
-      "date": "2026-05-02T00:00:00Z",
+      "date": "2026-05-01T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -265,7 +265,7 @@
       "matchweek": 35,
       "homeTeamId": "HIB",
       "awayTeamId": "CTC",
-      "date": "2026-05-03T00:00:00Z",
+      "date": "2026-05-02T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -275,7 +275,7 @@
       "matchweek": 35,
       "homeTeamId": "HEA",
       "awayTeamId": "RAN",
-      "date": "2026-05-04T00:00:00Z",
+      "date": "2026-05-03T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -285,7 +285,7 @@
       "matchweek": 36,
       "homeTeamId": "ABE",
       "awayTeamId": "DUU",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -295,7 +295,7 @@
       "matchweek": 36,
       "homeTeamId": "DUN",
       "awayTeamId": "LVN",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -305,7 +305,7 @@
       "matchweek": 36,
       "homeTeamId": "MOT",
       "awayTeamId": "HEA",
-      "date": "2026-05-09T00:00:00Z",
+      "date": "2026-05-08T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -315,7 +315,7 @@
       "matchweek": 36,
       "homeTeamId": "CTC",
       "awayTeamId": "RAN",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -325,7 +325,7 @@
       "matchweek": 36,
       "homeTeamId": "FAL",
       "awayTeamId": "HIB",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -335,7 +335,7 @@
       "matchweek": 36,
       "homeTeamId": "STM",
       "awayTeamId": "KIL",
-      "date": "2026-05-10T00:00:00Z",
+      "date": "2026-05-09T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -345,7 +345,7 @@
       "matchweek": 37,
       "homeTeamId": "HEA",
       "awayTeamId": "CTC",
-      "date": "2026-05-13T00:00:00Z",
+      "date": "2026-05-12T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -355,7 +355,7 @@
       "matchweek": 37,
       "homeTeamId": "HIB",
       "awayTeamId": "MOT",
-      "date": "2026-05-13T00:00:00Z",
+      "date": "2026-05-12T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -365,7 +365,7 @@
       "matchweek": 37,
       "homeTeamId": "RAN",
       "awayTeamId": "FAL",
-      "date": "2026-05-13T00:00:00Z",
+      "date": "2026-05-12T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -375,7 +375,7 @@
       "matchweek": 37,
       "homeTeamId": "ABE",
       "awayTeamId": "DUN",
-      "date": "2026-05-14T00:00:00Z",
+      "date": "2026-05-13T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -385,7 +385,7 @@
       "matchweek": 37,
       "homeTeamId": "DUU",
       "awayTeamId": "STM",
-      "date": "2026-05-14T00:00:00Z",
+      "date": "2026-05-13T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -395,7 +395,7 @@
       "matchweek": 37,
       "homeTeamId": "KIL",
       "awayTeamId": "LVN",
-      "date": "2026-05-14T00:00:00Z",
+      "date": "2026-05-13T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -405,7 +405,7 @@
       "matchweek": 38,
       "homeTeamId": "CTC",
       "awayTeamId": "HEA",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -415,7 +415,7 @@
       "matchweek": 38,
       "homeTeamId": "DUN",
       "awayTeamId": "ABE",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -425,7 +425,7 @@
       "matchweek": 38,
       "homeTeamId": "FAL",
       "awayTeamId": "RAN",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -435,7 +435,7 @@
       "matchweek": 38,
       "homeTeamId": "HIB",
       "awayTeamId": "MOT",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -445,7 +445,7 @@
       "matchweek": 38,
       "homeTeamId": "LVN",
       "awayTeamId": "KIL",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
@@ -455,7 +455,7 @@
       "matchweek": 38,
       "homeTeamId": "STM",
       "awayTeamId": "DUU",
-      "date": "2026-05-17T00:00:00Z",
+      "date": "2026-05-16T23:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
