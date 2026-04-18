@@ -1,6 +1,6 @@
 {
   "leagueId": "L1",
-  "updatedAt": "2026-04-18T02:50:05Z",
+  "updatedAt": "2026-04-18T02:57:06Z",
   "teams": [
     {
       "id": "PSG",
@@ -289,20 +289,20 @@
       "isCompleted": false
     },
     {
-      "id": "L1-MD30-RCL-TLS",
+      "id": "L1-MD30-LOR-OLM",
       "matchweek": 30,
-      "homeTeamId": "RCL",
-      "awayTeamId": "TLS",
-      "date": "2026-04-17T18:45:00Z",
+      "homeTeamId": "LOR",
+      "awayTeamId": "OLM",
+      "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
       "isCompleted": false
     },
     {
-      "id": "L1-MD30-LOR-OLM",
+      "id": "L1-MD30-RCL-TLS",
       "matchweek": 30,
-      "homeTeamId": "LOR",
-      "awayTeamId": "OLM",
+      "homeTeamId": "RCL",
+      "awayTeamId": "TLS",
       "date": "2026-04-18T15:00:00Z",
       "homeScore": null,
       "awayScore": null,
